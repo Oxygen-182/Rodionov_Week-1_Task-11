@@ -1,0 +1,16 @@
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.exe.config
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.exe
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.pdb
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.AssemblyReference.cache
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.CoreCompileInputs.cache
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.exe
+C:\Users\ruson\source\repos\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.pdb
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.exe.config
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.exe
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\bin\Debug\ConsoleApp_11.pdb
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.exe
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.pdb
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.AssemblyReference.cache
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_3\Задание_11\ConsoleApp_11\ConsoleApp_11\obj\Debug\ConsoleApp_11.csproj.CoreCompileInputs.cache
